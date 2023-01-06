@@ -1,0 +1,10 @@
+
+============================
+     Nota of the shop:3
+============================
+- Your Item Name        : Baree Eau De Perfume
+- Your Item Price       : 300.0
+- Your Item Quantity    : 2.0
+- Your Total of Money   : 700.0
+- Your Total of Change  : IDR100.0
+============================
